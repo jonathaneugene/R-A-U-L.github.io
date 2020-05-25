@@ -27,7 +27,7 @@ a:hover {
 
 html,
 body {
-  height: 150%;
+  height: 250%;
   background-color: #333;
   color: green
 }
@@ -74,22 +74,23 @@ body {
   border-bottom-color: rgba(255, 255, 255, .25);
 }
 
-.nav-masthead .nav-link + .nav-link {
+.nav-masthead  .nav-link + .nav-link {
   left: 30%;
   margin-left: 1rem;
   color: mediumpurple;
 }
 
 .nav-masthead .active {
+  ;
   left: 30%;
   color: yellow;
   border-bottom-color: #fff;
 }
 
 @media (min-width: 40em) {
-  .masthead-brand {
+  .nav-brand {
     left: 30%;
-    float: left;
+   position: relative;
     color: pink
   }
   .nav-masthead {
