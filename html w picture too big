@@ -1,0 +1,79 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrinkgit push origin master-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../Downloads/bootstrap-4.0.0/favicon.ico">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+
+    <title>R a u l   A v i l i a</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="cover.css" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+
+
+    <div class="bs-example">
+      <header class="masthead mb-auto">
+
+        <div class = "navbar navbar-expand-md fixed-top">
+
+          <nav class="navbar masthead">
+            <a href="#" class="navbar-brand">
+              <img src="download.png" height="28" alt="CoolBrand">
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+              <div class="navbar-nav">
+                <a href="#" class="nav-item nav-link active">Store</a>
+                <a href="#" class="nav-item nav-link">About Us</a>
+                <a href="#" class="nav-item nav-link">Cafe</a>
+              </div>
+              <div class="form-inline my-2 my-lg-0" id = "Login">
+                <a href="#" class="nav-item nav-link">Login</a>
+              </div>
+            </div>
+          </nav>
+
+        </div>
+      </header>
+
+      <main role="main" class="inner-cover">
+      <h1 class="display-1">R A U L</h1>
+    </main>
+
+     <main class = cover>
+       <div data-aos="slide-left"><display1> "FURNITURE"</display1> </div>
+       <div data-aos="slide-left"><img id="Furniture" src="https://images.squarespace-cdn.com/content/v1/5a669ad7ace864333df58d65/1523130595850-DHL1J0DN36IRS90OW6QG/ke17ZwdGBToddI8pDm48kOr6fpXnNv0C2gTxB2n56yp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZ2r1pl2YpRZws_c0qFWLn1c8OKzY-T331mDrBnHYXHO0mlp7cGNipU5tTKIxUWi9Q/Pots.JPG?format=750w">
+       <div data-aos="slide-left"><display1> "FLOWERS"</display1> </div>
+       <div data-aos="slide-left"><img id="flowers" src="https://cdn.shopify.com/s/files/1/0079/0662/3561/products/Screen_Shot_2019-06-24_at_3.09.19_PM_2048x.png?v=1561403430">
+
+
+
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../Downloads/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../Downloads/bootstrap-4.0.0/assets/js/vendor/popper.min.js"></script>
+    <script src="../../Downloads/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+  </body>
+</html>
